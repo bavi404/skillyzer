@@ -39,7 +39,7 @@ export function Graph() {
         <CardHeader>
           <h1 className="font-bold text-lg">Comparison Graph</h1>
           <CardDescription className="text-sm pt-2 font-medium text-gray-600">
-            <span className="font-bold">You scored 40% percentile</span> which
+            <span className="font-bold">You scored 30% percentile</span> which
             is lower than the <br />
             average percentile 72% of all engineers who took this assignment
           </CardDescription>

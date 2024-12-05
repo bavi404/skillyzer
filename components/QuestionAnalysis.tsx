@@ -56,7 +56,7 @@ export const QuestionAnalysis: React.FC<QuestionAnalysisProps> = ({ percent, cur
       <h2 className="text-lg font-bold mb-4">Question Analysis</h2>
       
       <p className="text-sm text-gray-600  mb-4">
-     <span className="font-bold">You answered {currentScore} out of 15 questions correctly.</span> However it <br/>still needs improvement.
+     <span className="font-bold">You answered {currentScore} out of 15 questions correctly.</span> However it <br/>still needs some improvements.
       </p>
 
       <div className="h-64">
